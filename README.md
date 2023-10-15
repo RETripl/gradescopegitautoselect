@@ -13,11 +13,16 @@ Automatic Selection: As soon as the submission popup appears, the GitHub radio b
 Lightweight: The extension runs only on Gradescope, ensuring minimal resource usage.
 
 Installation:
-Clone or download this repository to your local machine.
-Open Chrome and go to chrome://extensions/.
-Enable 'Developer mode' and click on 'Load unpacked'.
-Navigate to the directory where you downloaded or cloned this repository and select it.
-The extension should now be added to Chrome and ready to use!
+1) Clone or download this repository to your local machine.
+
+2) Open Chrome and go to chrome://extensions/.
+
+3) Enable 'Developer mode' and click on 'Load unpacked'.
+
+4) Navigate to the directory where you downloaded or cloned this repository and select it.
+
+5) The extension should now be added to Chrome and ready to use!
+
 Usage
 Once installed, the extension automatically works when you try to submit an assignment on Gradescope. There's 
 no additional configuration or interaction needed. Just watch as the GitHub option gets selected automatically!
