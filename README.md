@@ -1,4 +1,4 @@
-GitHub AutoSelect for Gradescope
+#H1 GitHub AutoSelect for Gradescope
 
 Automatically selects the GitHub submission method when uploading assignments on Gradescope.
 
