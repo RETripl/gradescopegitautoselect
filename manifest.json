@@ -4,10 +4,7 @@
     "version": "1.0",
     "description": "Automatically selects the GitHub button on Gradescope.",
     "permissions": [
-        "storage",
-        "webRequest",
-        "webRequestBlocking",
-        "scripting"
+        "webRequest"
     ],
     "host_permissions": [
         "https://www.gradescope.com/*"
@@ -18,5 +15,10 @@
     "content_scripts": [{
         "matches": ["https://www.gradescope.com/*"],
         "js": ["content.js"]
-    }]
+    }],
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
 }
